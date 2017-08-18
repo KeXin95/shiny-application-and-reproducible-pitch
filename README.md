@@ -9,4 +9,4 @@ URL to check application: [https://kexin95.shinyapps.io/shiny-application/](http
 
 ## Reproducible Pitch
 Folder [reproducible-pitch-presentation](reproducible-pitch-presentation) contais sources for Reproducible Pitch that describes Fake Contacts Generator application.
-URL to check presentation: [http://rpubs.com/m140042/Fake_Contacts_Generator_presentation](http://rpubs.com/m140042/Fake_Contacts_Generator_presentation)
+URL to check presentation: [http://rpubs.com/KCHONG011/reproducible-pitch-presentation](http://rpubs.com/KCHONG011/reproducible-pitch-presentation)
